@@ -80,7 +80,7 @@ p.adres {
 
 .rightcorner {
     position: absolute;
-    height: 50vh;
+    height: 40vh;
     bottom:0;
     right:0;
     overflow-x: hidden;
